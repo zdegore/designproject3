@@ -16,7 +16,7 @@ Both LEDControl folders are responsible for the swift app code
 -LEDControl Folder:
 
   -Controllers: Holds the files that contain the different views that I programmed as well   as other view for bluetooth which were mainly imported
-  -Model: Basic Files imported for the Bluetooth sections to use                                                    
+  -Model: Basic Files imported for the Bluetooth sections to use                                                                                                      
   -View: Basic File imported for the Bluetooth section
 
   All other paths hold information that is generated based on story board view and is in   HTML
