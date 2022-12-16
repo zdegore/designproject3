@@ -2,7 +2,6 @@
 //  ConsoleViewController.swift
 //  Basic Chat
 //
-//  Created by Trevor Beaton on 2/6/21.
 //
 
 import UIKit
