@@ -21,7 +21,7 @@ Both LEDControl folders are responsible for the swift app code
 
   All other paths hold information that is generated based on story board view and is in   HTML
   
--Arduino.ino is the file for the arduino code that runs the LED strip
+-Arduino.ino is the file for the arduino code that runs the LED strip                                         
 -DesignProject3 contains the code for version 1.0 of the app
 
 Code used and adapted from
