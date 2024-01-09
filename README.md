@@ -9,6 +9,8 @@ Code for Arduino Chip LED strip control and customization
 
 Code paths:
 
+Report with an overview of the entire project 
+
 Both LEDControl folders are responsible for the swift app code
 
 -LEDcontrol.xcodeproj contains the files to run on Xcode which is not availale unless running on a mac device 
